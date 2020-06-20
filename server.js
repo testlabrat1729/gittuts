@@ -15,8 +15,6 @@ app.post("/home", (req, res) => res.send("secret data received"));
 app.post("/aboutus", (req, res) => res.send("secret data received"));
 app.post("/contactus", (req, res) => res.send("secret data received"));
 app.post("/jobs", (req, res) => res.send("secret data received"));
-app.post("/importantInfo", (req, res) => res.send("secret data received"));
-app.post("/404", (req, res) => res.send("secret data received"));
 //asfdsa
 //af
 //asf
