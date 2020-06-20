@@ -22,24 +22,6 @@ app.post("/contactus", (req, res) => res.send("secret data received"));
 app.post("/jobs", (req, res) => res.send("secret data received"));
 app.post("/importantInfo", (req, res) => res.send("secret data received"));
 app.post("/404", (req, res) => res.send("secret data received"));
-//very important work
-//need more dirty work
-//af
-//asf
-//sadf
-//safd
-//as
-//fas
-//df
-//sdaf
-//sa
-//f
-//asf
-//asf
-//
-//f
-//asf
-//saf
 app.listen(port, () =>
   console.log(`Example app listening at http://localhost:${port}`)
 );
