@@ -1,31 +1,3 @@
-//asdfasdfas
-//fsafd
-//safd
-//sa
-//dfsa
-//df
-//sa
-//fsa
-//fd
-//sadf
-//sa
-//f
-//saf
-//sa
-//f
-//sf
-//sa
-//f
-//saf
-//sa
-//df
-//sdf
-//sa
-//f
-//sad
-//fsda
-//f
-//sadf
-//as
-//
-const mongoose = require("mongoose")
+//new mongodb models need to be added.
+
+const mongoose = require("mongoose");
