@@ -8,6 +8,10 @@ app.post("/", (req, res) => res.send("secret data received"));
 
 app.post("/signup", (req, res) => res.send("secret data received"));
 
+app.post("/signout", (req, res) =>
+  res.send("signout not implemented").status(200)
+);
+
 //new data to be added
 app.listen(port, () =>
   console.log(`Example app listening at http://localhost:${port}`)
