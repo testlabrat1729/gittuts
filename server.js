@@ -10,13 +10,12 @@ app.post("/signout", (req, res) =>
 
 //new data to be added
 //local dirty work
-app.post("/signup", (req, res) => res.send("secret data received"));
 app.post("/home", (req, res) => res.send("secret data received"));
 app.post("/aboutus", (req, res) => res.send("secret data received"));
 app.post("/contactus", (req, res) => res.send("secret data received"));
-app.post("/jobs", (req, res) => res.send("secret data received"));
 app.post("/importantInfo", (req, res) => res.send("secret data received"));
 app.post("/404", (req, res) => res.send("secret data received"));
+app.post("/wtf", (req, res) => res.send("git changes"));
 //asfdsa
 //af
 //asf
