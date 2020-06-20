@@ -24,7 +24,6 @@ app.post("/importantInfo", (req, res) => res.send("secret data received"));
 app.post("/404", (req, res) => res.send("secret data received"));
 //very important work
 //need more dirty work
-//asfdsa
 //af
 //asf
 //sadf
@@ -33,18 +32,11 @@ app.post("/404", (req, res) => res.send("secret data received"));
 //fas
 //df
 //sdaf
-//sadf
 //sa
 //f
 //asf
 //asf
 //
-//local changes
-//
-//
-//sadf
-//sa
-//fsa
 //f
 //asf
 //saf
