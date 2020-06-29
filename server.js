@@ -2,6 +2,7 @@
 //copy super left by harsha
 const app = express();
 const port = 3001;
+// port command to use local environment variables
 
 app.get("/", (req, res) => res.send("Hello World!"));
 
