@@ -16,4 +16,7 @@ app.post("/signout", (req, res) =>
 app.delete("/user", (req, res) => {
   res.send("user deleted").status(200);
 });
-//also done by harsha with love
+//template route
+app.delete("/eeee", (req, res) => {
+  res.send("template route").status(200);
+});
